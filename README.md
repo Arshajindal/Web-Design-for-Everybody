@@ -1,4 +1,4 @@
-# Web-Design-for-Everybody-Basics-of-Web-Development-Coding-Specialization
+## Web-Design-for-Everybody-Basics-of-Web-Development-Coding-Specialization
 
 Solutions of all the Peer-graded Assignments during the course 
 ["Introduction to HTML5"](https://www.coursera.org/learn/html) ,
